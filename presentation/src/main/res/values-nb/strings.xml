@@ -377,6 +377,8 @@
         <item>Standard</item>
         <item>Stor</item>
         <item>Større</item>
+        <item>Større 2</item>
+        <item>Større 3</item>
     </string-array>
     <string-array name="delayed_sending_labels">
         <item>Ingen forsinkelse</item>

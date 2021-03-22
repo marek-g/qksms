@@ -377,6 +377,8 @@
         <item>عادی</item>
         <item>بزرگ</item>
         <item>بزرگتر</item>
+        <item>بزرگتر 2</item>
+        <item>بزرگتر 3</item>
     </string-array>
     <string-array name="delayed_sending_labels">
         <item>بدون درنگ</item>

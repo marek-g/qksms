@@ -377,6 +377,8 @@
         <item>Normaali</item>
         <item>Suuri</item>
         <item>Suurempi</item>
+        <item>Suurempi 2</item>
+        <item>Suurempi 3</item>
     </string-array>
     <string-array name="delayed_sending_labels">
         <item>Ei viivettä</item>

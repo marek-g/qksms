@@ -377,6 +377,8 @@
         <item>Normál</item>
         <item>Nagy</item>
         <item>Nagyobb</item>
+        <item>Nagyobb 2</item>
+        <item>Nagyobb 3</item>
     </string-array>
     <string-array name="delayed_sending_labels">
         <item>Nincs késleltetés</item>

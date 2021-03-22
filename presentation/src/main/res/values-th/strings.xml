@@ -371,6 +371,8 @@
         <item>ปกติ</item>
         <item>ขนาดใหญ่</item>
         <item>ขนาดใหญ่มาก</item>
+        <item>ขนาดใหญ่มาก 2</item>
+        <item>ขนาดใหญ่มาก 3</item>
     </string-array>
     <string-array name="delayed_sending_labels">
         <item>ไม่ล่าช้า</item>

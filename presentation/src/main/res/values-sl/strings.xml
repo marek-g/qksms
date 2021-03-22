@@ -389,6 +389,8 @@
         <item>Običajna</item>
         <item>Velika</item>
         <item>Večja</item>
+        <item>Večja 2</item>
+        <item>Večja 3</item>
     </string-array>
     <string-array name="delayed_sending_labels">
         <item>Brez zakasnitve</item>

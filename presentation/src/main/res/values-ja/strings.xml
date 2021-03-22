@@ -371,6 +371,8 @@
         <item>普通の</item>
         <item>大き</item>
         <item>大きい</item>
+        <item>大きい 2</item>
+        <item>大きい 3</item>
     </string-array>
     <string-array name="delayed_sending_labels">
         <item>遅延なし</item>

@@ -377,6 +377,8 @@
         <item>सामान्य</item>
         <item>बड़ा</item>
         <item>और बड़ा</item>
+        <item>और बड़ा 2</item>
+        <item>और बड़ा 3</item>
     </string-array>
     <string-array name="delayed_sending_labels">
         <item>कोइ विलम्ब नही</item>

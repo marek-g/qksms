@@ -402,6 +402,8 @@
         <item>عادي</item>
         <item>كبير</item>
         <item>أكبر</item>
+        <item>أكبر 2</item>
+        <item>أكبر 3</item>
     </string-array>
     <string-array name="delayed_sending_labels">
         <item>دون تأخير</item>

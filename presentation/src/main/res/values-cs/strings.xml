@@ -389,6 +389,8 @@
         <item>Normální</item>
         <item>Velké</item>
         <item>Větší</item>
+        <item>Větší 2</item>
+        <item>Větší 3</item>
     </string-array>
     <string-array name="delayed_sending_labels">
         <item>Bez prodlevy</item>

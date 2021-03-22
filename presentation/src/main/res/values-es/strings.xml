@@ -377,6 +377,8 @@
         <item>Normal</item>
         <item>Grande</item>
         <item>Más grande</item>
+        <item>Más grande 2</item>
+        <item>Más grande 3</item>
     </string-array>
     <string-array name="delayed_sending_labels">
         <item>Sin demora</item>

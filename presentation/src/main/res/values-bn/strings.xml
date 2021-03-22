@@ -377,6 +377,8 @@
         <item>স্বাভাবিক</item>
         <item>বড়</item>
         <item>বড়</item>
+        <item>বড় 2</item>
+        <item>বড় 3</item>
     </string-array>
     <string-array name="delayed_sending_labels">
         <item>কোনো বিলম্ব নেই</item>

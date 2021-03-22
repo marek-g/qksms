@@ -389,6 +389,8 @@
         <item>Обычный</item>
         <item>Крупный</item>
         <item>Большой</item>
+        <item>Большой 2</item>
+        <item>Большой 3</item>
     </string-array>
     <string-array name="delayed_sending_labels">
         <item>Без задержки</item>

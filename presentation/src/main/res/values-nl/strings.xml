@@ -377,6 +377,8 @@
         <item>Normaal</item>
         <item>Groot</item>
         <item>Groot</item>
+        <item>Groot 2</item>
+        <item>Groot 3</item>
     </string-array>
     <string-array name="delayed_sending_labels">
         <item>Geen vertraging</item>

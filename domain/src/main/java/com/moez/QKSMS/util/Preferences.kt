@@ -46,6 +46,8 @@ class Preferences @Inject constructor(
         const val TEXT_SIZE_NORMAL = 1
         const val TEXT_SIZE_LARGE = 2
         const val TEXT_SIZE_LARGER = 3
+        const val TEXT_SIZE_LARGER2 = 4
+        const val TEXT_SIZE_LARGER3 = 5
 
         const val NOTIFICATION_PREVIEWS_ALL = 0
         const val NOTIFICATION_PREVIEWS_NAME = 1

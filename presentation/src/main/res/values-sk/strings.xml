@@ -389,6 +389,8 @@
         <item>Stredný</item>
         <item>Veľký</item>
         <item>Najväčší</item>
+        <item>Najväčší 2</item>
+        <item>Najväčší 3</item>
     </string-array>
     <string-array name="delayed_sending_labels">
         <item>Bez oneskorenia</item>

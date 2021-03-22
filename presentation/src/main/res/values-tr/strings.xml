@@ -379,6 +379,8 @@ BAĞLAM İSTEĞİ</string>
         <item>Normal</item>
         <item>Büyük</item>
         <item>Daha büyük</item>
+        <item>Daha büyük 2</item>
+        <item>Daha büyük 3</item>
     </string-array>
     <string-array name="delayed_sending_labels">
         <item>Gecikme yok</item>

@@ -389,6 +389,8 @@
         <item>רגיל</item>
         <item>גדול</item>
         <item>גדול יותר</item>
+        <item>גדול יותר 2</item>
+        <item>גדול יותר 3</item>
     </string-array>
     <string-array name="delayed_sending_labels">
         <item>ללא השהיה</item>
